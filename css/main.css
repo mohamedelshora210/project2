@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    color:aliceblue;
+}
+.card{
+    background-color: #333;
+}
+.none{
+    display: none;
+}
+.checked{
+    background-color:#236;
+    text-decoration: line-through;
+    color: wheat;
+}
+.block{
+    display: block;
+}
+.light{
+    margin-left: 50%;
+    margin-top: 65px;
+    border-radius: 70px;
+    width:120px;
+}
+    .backmode{
+        background-color:wheat;
+    
+    }
+  .mode{
+      color: rgba(0, 0, 0, 0.74) !important;
+  }
